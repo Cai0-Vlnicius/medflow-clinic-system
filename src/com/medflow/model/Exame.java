@@ -7,7 +7,7 @@ package com.medflow.model;
 
 /**
  *
- * @author CaioLuiz
+ * @author Caio
  */
 public class Exame {
 
