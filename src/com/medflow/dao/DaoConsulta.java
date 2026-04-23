@@ -14,7 +14,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author CaioLuiz
+ * @author Caio
  */
 public class DaoConsulta {
 
