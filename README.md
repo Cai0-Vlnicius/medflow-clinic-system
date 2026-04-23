@@ -34,10 +34,31 @@ medflow-clinic-management-system/
     +-- com/
         +-- medflow/
             +-- database/
+            |   +-- Conexao.java
+            |
             +-- dao/
+            |   +-- DaoConsulta.java
+            |   +-- DaoExame.java
+            |   +-- DaoMedicacao.java
+            |   +-- DaoMedico.java
+            |   +-- DaoPaciente.java
+            |
             +-- model/
+            |   +-- Consulta.java
+            |   +-- Exame.java
+            |   +-- Medicacao.java
+            |   +-- Medico.java
+            |   +-- Paciente.java
+            |   +-- Pessoa.java
+            |
             +-- view/
-
+                +-- GuiCadastroMedico.java
+                +-- GuiCadastroPaciente.java
+                +-- GuiMarcarConsulta.java
+                +-- GuiMarcarExame.java
+                +-- GuiMenu.java
+                +-- GuiPrescreverMedicacao.java
+                +-- icon/
 ----------------------------------------
 TECNOLOGIAS UTILIZADAS
 ----------------------------------------
