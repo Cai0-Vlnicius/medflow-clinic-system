@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author CaioLuiz
+ * @author Caio
  */
 public class GuiCadastroPaciente extends javax.swing.JFrame {
 
