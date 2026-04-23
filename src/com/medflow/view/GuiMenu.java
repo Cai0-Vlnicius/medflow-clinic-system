@@ -7,7 +7,7 @@ package com.medflow.view;
 
 /**
  *
- * @author CaioLuiz
+ * @author Caio
  */
 public class GuiMenu extends javax.swing.JFrame {
 
