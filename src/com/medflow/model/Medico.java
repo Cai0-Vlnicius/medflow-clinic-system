@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author CaioLuiz
+ * @author Caio
  */
 public class Medico extends Pessoa {
     private String crm;
