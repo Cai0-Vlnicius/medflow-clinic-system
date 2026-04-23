@@ -13,7 +13,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author CaioLuiz
+ * @author Caio
  */
 public class DaoExame {
     private Connection conn;
