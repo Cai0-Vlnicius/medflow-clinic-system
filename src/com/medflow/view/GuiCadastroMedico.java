@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author CaioLuiz
+ * @author Caio
  */
 public class GuiCadastroMedico extends javax.swing.JFrame {
 
