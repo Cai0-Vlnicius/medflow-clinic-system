@@ -24,6 +24,7 @@ FUNCIONALIDADES
 ----------------------------------------
 ESTRUTURA DO PROJETO
 ----------------------------------------
+```text
 medflow-clinic-management-system/
 |
 +-- database/
@@ -59,6 +60,7 @@ medflow-clinic-management-system/
                 +-- GuiMenu.java
                 +-- GuiPrescreverMedicacao.java
                 +-- icon/
+```
 ----------------------------------------
 TECNOLOGIAS UTILIZADAS
 ----------------------------------------
