@@ -13,7 +13,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author CaioLuiz
+ * @author Caio
  */
 public class Paciente extends Pessoa {
     private LocalDate dataNascimento;
